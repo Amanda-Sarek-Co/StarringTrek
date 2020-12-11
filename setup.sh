@@ -22,7 +22,9 @@ check_for_dir() {
 		read -p "Press Enter to Continue. . ."
 		lb 1 
 	else
+		echo no venv detected, creating one now 
 		python3 -m venv ./env 
+		echo venv created, activate the script at /env/bin/activate before running this script again
 	fi
 }
 
@@ -38,10 +40,7 @@ python_ver_check () {
 check_pip_packages () {
 	echo making sure your python packages are up to date . . .
 
-	if ! pip freeze == cat requirements.txt
-	then	
-		pip install -r ./requirements.txt 
-	fi
+	pip install -r ./requirements.txt 
 }
 
 alias pass="echo PASS"
@@ -55,8 +54,9 @@ pass
 
 lb 2 
 check_pip_packages
-pass
 
 lb 2 
+
+SETUP COMPLETE
 
 code ./
