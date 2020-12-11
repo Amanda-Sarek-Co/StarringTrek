@@ -25,6 +25,7 @@ check_for_dir() {
 		echo no venv detected, creating one now 
 		python3 -m venv ./env 
 		echo venv created, activate the script at /env/bin/activate before running this script again
+		exit
 	fi
 }
 
