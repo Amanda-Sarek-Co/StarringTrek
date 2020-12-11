@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
+user=$1
 
-# don't even ask
+# Some helper functions
 pass() {
 	echo PASS
 }
 
-# line break function, for formatting
 lb () {
 	for lines in $1
 	do
@@ -13,7 +13,7 @@ lb () {
 	done
 }
 
-
+# Development Environment functions
 check_for_dir() {
 	if [ -d "./env" ]
 	then
@@ -58,3 +58,5 @@ check_pip_packages
 pass
 
 lb 2 
+
+code ./
