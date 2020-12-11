@@ -58,6 +58,7 @@ check_pip_packages
 
 lb 2 
 
-SETUP COMPLETE
+echo SETUP COMPLETE
 
-code ./
+pwd | code
+python -m webbrowser -t "https://github.com/orgs/Amanda-Sarek-Co/projects/1"
