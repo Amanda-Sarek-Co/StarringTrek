@@ -1,7 +1,7 @@
 OUTLINE
 --------------------------------------------------------------------------------
 
-singtrek "Barclay"
+> singtrek "Barclay"
 Reginald Barclay is played by Dwight Schultz and appears in:
     STAR TREK: THE NEXT GENERATION  S3E21 "Hollow Pursuits"
                                     S4E19 "The Nth Degree"
@@ -16,7 +16,7 @@ Reginald Barclay is played by Dwight Schultz and appears in:
                                     S7E25 "Endgame"
     MOVIES                          STAR TREK: FIRST CONTACT
 
-singtrek "Brunt"
+> singtrek "Brunt"
 Brunt is played by Jeffrey Combs and appears in:
     STAR TREK: DEEP SPACE NINE      S3E23 "Family Business"
                                     S4E16 "Bar Association"
@@ -69,14 +69,12 @@ Jeffrey Combs also portrays Weyoun, who appears in:
                                     S7E24 "The Dogs of War"
                                     S7E25 "What You Leave Behind"
 
-singtrek "Michael"
-Michael can refer to:
-    Michael Burnham, played by Sonequa Martin-Green
-    Michael Eddington, played by Kenneth Marshall
-    Michael Jonas, played by Raphael Sbarge
-    Michael Rostov, played by Joseph Will
-
-singtrek "Michael Eddington"
+> singtrek "Michael"
+1) Michael Burnham, played by Sonequa Martin-Green (DIS)
+2) Michael Eddington, played by Kenneth Marshall (DS9)
+3) Michael Jonas, played by Raphael Sbarge (VOY)
+4) Michael Rostov, played by Joseph Will (ENT)
+>> 2
 Michael Eddington is played by Kenneth Marshall and appears in:
     STAR TREK: DEEP SPACE NINE      S3E01 "The Search, Part 1"
                                     S3E02 "The Search, Part 2"
@@ -88,5 +86,32 @@ Michael Eddington is played by Kenneth Marshall and appears in:
                                     S5E13 "For the Uniform"
                                     S5E23 "Blaze of Glory"
 
-singtrek "blahblahblah"
+> singtrek "blahblahblah"
 There are no characters named "blahblahblah" in the database. Please check the spelling (turning on subtitles may help).
+
+> singtrek "Amanda"
+Amanda Grayson is played by Jane Wyatt and appears in:
+    STAR TREK: THE ORIGINAL SERIES  S2E15 "Journey to Babel"
+    MOVIES                          STAR TREK IV: THE VOYAGE HOME
+Amanda Grayson is also played by Majel Barrett and appears in:
+    STAR TREK: THE ANIMATED SERIES  S1E02 "Yesteryear"
+Amanda Grayson is also played by Mia Kirshner and appears in:
+    STAR TREK: DISCOVERY            S1E06 "Lethe"
+                                    S1E11 "The Wolf Inside"
+                                    S1E15 "Will You Take My Hand?"
+                                    S2E01 "Brother"
+                                    S2E03 "Point of Light"
+                                    S2E07 "Light and Shadows"
+                                    S2E11 "Perpetual Infinity"
+                                    S2E12 "Through the Valley of Shadows"
+                                    S2E13 "Such Sweet Sorrow"
+                                    S2E14 "Such Sweet Sorrow, Part 2"
+Amanda Grayson is also played by Winona Ryder and appears in:
+    MOVIES                          STAR TREK
+
+> singtrek worf
+Worf appears in
+1) TNG
+2) DS9
+3) Movies
+4) See all
