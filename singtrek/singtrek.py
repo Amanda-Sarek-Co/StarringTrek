@@ -50,13 +50,13 @@ entities = [
     'series'
 ]
 
-def form_request(url=root_api, entity='character', type='get', search=True):
+def form_request(url=root_api, entity="character", type="get", search=True):
     if search == True:
-        return requests.type(f"{root_api}{entity}/search")
+        return requests.get(f"{root_api}{entity}/search")
     else:
-        return requests.type(f"{root_api}{entity}")
+        return requests.get(f"{root_api}{entity}")
 
 if __name__ == "__main__":
     pass
 
-form_request(root_api, 'post')
+r = form_request(url=root_api, entity="staff")
