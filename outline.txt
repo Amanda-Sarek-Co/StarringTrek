@@ -1,0 +1,92 @@
+OUTLINE
+--------------------------------------------------------------------------------
+
+singtrek "Barclay"
+Reginald Barclay is played by Dwight Schultz and appears in:
+    STAR TREK: THE NEXT GENERATION  S3E21 "Hollow Pursuits"
+                                    S4E19 "The Nth Degree"
+                                    S6E02 "Realm of Fear"
+                                    S6E12 "Ship in a Bottle"
+                                    S7E19 "Genesis"
+    STAR TREK: VOYAGER              S2E03 "Projections"
+                                    S6E10 "Pathfinder"
+                                    S6E24 "Life Line"
+                                    S7E06 "Inside Man"
+                                    S7E20 "Author, Author"
+                                    S7E25 "Endgame"
+    MOVIES                          STAR TREK: FIRST CONTACT
+
+singtrek "Brunt"
+Brunt is played by Jeffrey Combs and appears in:
+    STAR TREK: DEEP SPACE NINE      S3E23 "Family Business"
+                                    S4E16 "Bar Association"
+                                    S4E25 "Body Parts"
+                                    S5E20 "Ferengi Love Songs"
+                                    S6E10 "The Magnificent Ferengi"
+                                    S6E23 "Profit and "Lace"
+                                    S7E12 "The Emperor's New Cloak"
+                                    S7E24 "The Dogs of War"
+Jeffrey Combs also portrays Krem, who appears in:
+    STAR TREK: ENTERPRISE           S1E19 "Acquisition"
+Jeffrey Combs also portrays Penk, who appears in:
+    STAR TREK: VOYAGER              S6E15 "Tsunkatse"
+Jeffrey Combs also portrays Thy'lek Shran, who appears in:
+    STAR TREK: ENTERPRISE           S1E07 "The Andorian Incident"
+                                    S1E15 "Shadows of P'Jem"
+                                    S2E15 "Cease Fire"
+                                    S3E13 "Proving Ground"
+                                    S3E24 "Zero Hour"
+                                    S4E09 "Kir'Shara"
+                                    S4E12 "Babel One"
+                                    S4E13 "United"
+                                    S4E14 "The Aenar"
+                                    S4E22 "These Are the Voyages..."
+Jeffrey Combs also portrays Tiron, who appears in:
+    STAR TREK: DEEP SPACE NINE      S3E08 "Meridian"
+Jeffrey Combs also portrays Weyoun, who appears in:
+    STAR TREK: DEEP SPACE NINE      S4E23 "To the Death"
+                                    S5E19 "Ties of Blood and Water"
+                                    S5E25 "In the Cards"
+                                    S5E26 "Call to Arms"
+                                    S6E01 "A Time to Stand"
+                                    S6E04 "Behind the Lines"
+                                    S6E05 "Favor the Bold"
+                                    S6E06 "Sacrifice of Angels"
+                                    S6E09 "Statistical Probabilities"
+                                    S6E11 "Waltz"
+                                    S6E13 "Far Beyond the Stars"
+                                    S6E18 "Inquisition"
+                                    S6E19 "In the Pale Moonlight"
+                                    S6E26 "Tears of the Prophets"
+                                    S7E01 "Image in the Sand"
+                                    S7E02 "Shadows and Symbols"
+                                    S7E06 "Treachery, Faith, and the Great River"
+                                    S7E17 "Penumbra"
+                                    S7E18 "Til Death Do Us Part"
+                                    S7E19 "Strange Bedfellows"
+                                    S7E20 "The Changing Face of Evil"
+                                    S7E22 "Tacking Into the Wind"
+                                    S7E24 "The Dogs of War"
+                                    S7E25 "What You Leave Behind"
+
+singtrek "Michael"
+Michael can refer to:
+    Michael Burnham, played by Sonequa Martin-Green
+    Michael Eddington, played by Kenneth Marshall
+    Michael Jonas, played by Raphael Sbarge
+    Michael Rostov, played by Joseph Will
+
+singtrek "Michael Eddington"
+Michael Eddington is played by Kenneth Marshall and appears in:
+    STAR TREK: DEEP SPACE NINE      S3E01 "The Search, Part 1"
+                                    S3E02 "The Search, Part 2"
+                                    S3E21 "The Die is Cast"
+                                    S3E26 "The Adversary"
+                                    S4E06 "Rejoined"
+                                    S4E10 "Our Man Bashir"
+                                    S4E22 "For the Cause"
+                                    S5E13 "For the Uniform"
+                                    S5E23 "Blaze of Glory"
+
+singtrek "blahblahblah"
+There are no characters named "blahblahblah" in the database. Please check the spelling (turning on subtitles may help).
