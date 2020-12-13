@@ -7,7 +7,7 @@ from operator import itemgetter
 
 def getPerformer(performer_name="Nana Visitor"):
     criteria = stapi.search_criteria.PerformerSearchCriteria(0, 1, "",
-        name="Nana Visitor")
+        name=performer_name)
 
     response = stapi.RestClient().performer.search(criteria) # returns dictonary 
     performers = response["performers"]
@@ -20,9 +20,9 @@ def getPerformer(performer_name="Nana Visitor"):
     rest_client = stapi.RestClient()
     return rest_client.performer.get(performer["uid"])
 
-def getEpisode(episode_name = "The Storyteller"):
+def getEpisode(episode_name="The Storyteller"):
     criteria = stapi.search_criteria.EpisodeSearchCriteria(0, 1, "",
-        title="The Storyteller")
+        title=episode_name)
     response = stapi.RestClient().episode.search(criteria)
     episodes = response["episodes"]
     episode = episodes[0]
@@ -31,9 +31,9 @@ def getEpisode(episode_name = "The Storyteller"):
 
     return rest_client.episode.get(episode["uid"])
 
-def getCharacter(character_name = "Kira Nerys"):
+def getCharacter(character_name="Kira Nerys"):
     criteria = stapi.search_criteria.CharacterSearchCriteria(0, 1, "",
-        name="Kira Nerys")
+        name=character_name)
     response = stapi.RestClient().character.search(criteria)
     characters = response["characters"]
     if len(characters) == 1:
