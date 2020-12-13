@@ -5,6 +5,8 @@ import json
 from pprint import pprint
 from operator import itemgetter
 
+import json 
+
 def getPerformer(performer_name="Nana Visitor"):
     criteria = stapi.search_criteria.PerformerSearchCriteria(0, 1, "",
         name=performer_name)

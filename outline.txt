@@ -109,9 +109,5 @@ Amanda Grayson is also played by Mia Kirshner and appears in:
 Amanda Grayson is also played by Winona Ryder and appears in:
     MOVIES                          STAR TREK
 
-> singtrek worf
-Worf appears in
-1) TNG
-2) DS9
-3) Movies
-4) See all
+SEARCHING AN EPISODE
+> singtrek "The Cage" -e
