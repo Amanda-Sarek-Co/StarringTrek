@@ -1,3 +1,4 @@
+################################################################################
 import stapi
 import types
 import json
@@ -5,8 +6,10 @@ from pprint import pprint
 from operator import itemgetter
 
 def getPerformer(performer_name="Nana Visitor"):
-    criteria = stapi.search_criteria.PerformerSearchCriteria(0,1,"",name="Nana Visitor") 
-    response = stapi.RestClient().performer.search(criteria) # this returns a dictonary 
+    criteria = stapi.search_criteria.PerformerSearchCriteria(0, 1, "",
+        name="Nana Visitor")
+
+    response = stapi.RestClient().performer.search(criteria) # returns dictonary 
     performers = response["performers"]
     
     if len(performers) == 1:
@@ -18,7 +21,8 @@ def getPerformer(performer_name="Nana Visitor"):
     return rest_client.performer.get(performer["uid"])
 
 def getEpisode(episode_name = "The Storyteller"):
-    criteria = stapi.search_criteria.EpisodeSearchCriteria(0,1,"",title="The Storyteller")
+    criteria = stapi.search_criteria.EpisodeSearchCriteria(0, 1, "",
+        title="The Storyteller")
     response = stapi.RestClient().episode.search(criteria)
     episodes = response["episodes"]
     episode = episodes[0]
@@ -28,7 +32,8 @@ def getEpisode(episode_name = "The Storyteller"):
     return rest_client.episode.get(episode["uid"])
 
 def getCharacter(character_name = "Kira Nerys"):
-    criteria = stapi.search_criteria.CharacterSearchCriteria(0,1,"",name="Kira Nerys")
+    criteria = stapi.search_criteria.CharacterSearchCriteria(0, 1, "",
+        name="Kira Nerys")
     response = stapi.RestClient().character.search(criteria)
     characters = response["characters"]
     if len(characters) == 1:
